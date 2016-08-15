@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Thesis_Implementation
+Bundle-SymbolicName: Thesis_Implementation
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: Thesis_Implementation.jar,
+ Jana/Desktop/sqljdbc_4.2/deu/sqljdbc4.jar,
+ jgoodies-common-1.8.0.jar,
+ jgoodies-forms-1.8.0.jar
+Export-Package: Data,
+ GUI,
+ WEA_Logic
